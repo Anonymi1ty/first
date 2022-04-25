@@ -1,0 +1,8 @@
+git clone 'URL' #从远程克隆一个项目
+
+git status #查看文件状态
+git add . #添加到暂存区
+git committed -m #提交文教中的内容
+git push #发送到远程
+
+主目录下建立.gitignore 可以设置忽略文件
